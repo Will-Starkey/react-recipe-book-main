@@ -42,7 +42,6 @@ function App() {
     fetchMeals();
   }, []);
 
-  // Meal list
   return (
     <div className="app-container">
       <div className="meal-list">
